@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raihan</h1>
-<h3 align="center">A Student at State Polytechnic of Padang.</h3>
+<h1>Hi 👋, I'm Raihan</h1>
+<h3>A Student at State Polytechnic of Padang.</h3>
 
 - 🌱 I’m currently learning **Laravel,Flutter**
 
